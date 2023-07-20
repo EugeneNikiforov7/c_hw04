@@ -50,3 +50,6 @@ string number = GetInfo("Введите число: ");
 int  res = GetSumDig(number);
 
 Console.Write($"{number} -> {res}");
+
+double a = 3,123456789;
+Console.Write(a);
