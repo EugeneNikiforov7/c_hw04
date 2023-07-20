@@ -35,3 +35,11 @@ int number = GetInfo("Введите размерность массива: ");
 int[] arr = new int[number];
 FillArray(arr);
 PrintArray(arr);
+
+// форматирование вывода
+
+// Console.WriteLine();
+// double a = 3.123456789;
+// Console.WriteLine(a.ToString("0.00"));
+// double different = 8.96348965;
+// Console.WriteLine($"{different:0.00}");
